@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Makale Kodları\VerileriExceleAktarma\VerileriExceleAktarma\bin\Debug\VerileriExceleAktarma.exe
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Makale Kodları\VerileriExceleAktarma\VerileriExceleAktarma\bin\Debug\VerileriExceleAktarma.pdb
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Makale Kodları\VerileriExceleAktarma\VerileriExceleAktarma\obj\x86\Debug\VerileriExceleAktarma.Form1.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Makale Kodları\VerileriExceleAktarma\VerileriExceleAktarma\obj\x86\Debug\VerileriExceleAktarma.Properties.Resources.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Makale Kodları\VerileriExceleAktarma\VerileriExceleAktarma\obj\x86\Debug\VerileriExceleAktarma.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Makale Kodları\VerileriExceleAktarma\VerileriExceleAktarma\obj\x86\Debug\VerileriExceleAktarma.exe
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Makale Kodları\VerileriExceleAktarma\VerileriExceleAktarma\obj\x86\Debug\VerileriExceleAktarma.pdb
